@@ -1,0 +1,25 @@
+.metrics {
+    display: flex;
+    margin: 8em 5em;
+    padding-left: 5em;
+}
+
+.metrics-section {
+    font-size: 60px;
+    color: var(--aboutUs);
+    font-weight: 600;
+}
+
+.metrics-title {
+    color: var(--aboutUs-title);
+    margin: 1em 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metrics-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--options-color);
+    padding-right: 3em;
+}

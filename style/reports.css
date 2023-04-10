@@ -1,0 +1,31 @@
+.reports {
+    text-align: center;
+    padding: 5em 3em;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    margin: 2em 10em;
+}
+
+.reports__head {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--aboutUs);
+}
+
+.reports__title {
+    font-size: 36px;
+    color: var(--aboutUs-title);
+    margin: 1em 0 1em 0;
+}
+
+.reports__text {
+    font-size: 16px;
+    color: var(--aboutUs-title);
+    margin-bottom: .5em;
+}
+
+.reports__text-job {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--options-color);
+}

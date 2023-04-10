@@ -1,0 +1,39 @@
+footer {
+    background-color: var(--background);
+    text-align: center;
+}
+
+.footer {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--aboutUs-title);
+}
+
+.footer__text {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--options-color);
+    margin: 1em 0 1.5em 0;
+}
+
+.footer__email {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--options-color);
+    padding: 10px 10em 10px .5em;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 8px;
+    margin: .5em .5em 0 0;
+}
+
+.footer__signin {
+    display: inline-block;
+}
+
+.copyright {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--copy);
+    margin: 2em 0 5em 0;
+}

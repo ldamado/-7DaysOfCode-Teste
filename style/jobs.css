@@ -1,0 +1,23 @@
+.jobs {
+    text-align: center;
+}
+
+.jobs__open {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--aboutUs);
+}
+
+.jobs__title {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--aboutUs-title);
+    margin: 0.5em 0;
+}
+
+.jobs__text {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--options-color);
+    margin-bottom: 3em;
+}
